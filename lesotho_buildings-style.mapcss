@@ -1,0 +1,38 @@
+
+meta   
+{
+	title: "Lesotho Buildings";
+	author: "RustyB"; 
+	version: "1.012_2015-05-10"; 
+	description: "Style to classify builings modified from german buildings style.";
+        link: "xxx";
+        watch-modified: true;
+}
+meta[lang=en]
+{
+        title: "Lesotho Buildings";
+        description: "Style for Lesotho Buildings";
+        link: "https://maplesotho.wordpress.com";
+}
+area[building=house] 
+{
+	
+	z-index: 1;
+	color: #EA7525; 
+	fill-color: #EA7525; 
+	width: 3;
+}
+area[building=construction] 
+{
+	z-index: 1;
+	color: #56e1da; 
+	fill-color: #2bd9d1; 
+	width: 3;
+}
+area[building=yes] 
+{
+	z-index: 1;
+	color:#ac0fee;
+	fill-color: #d37cf7; 
+	width: 3;
+}
