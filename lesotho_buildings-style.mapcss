@@ -5,7 +5,7 @@ meta
 	author: "RustyB"; 
 	version: "1.012_2015-05-10"; 
 	description: "Style to classify builings modified from german buildings style.";
-        link: "xxx";
+        link: "https://raw.githubusercontent.com/rustyb/lesotho_osm_styles/master/lesotho_buildings-style.mapcss";
         watch-modified: true;
 }
 meta[lang=en]
